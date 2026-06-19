@@ -1,0 +1,8 @@
+*.fastq.gz
+*.fa.gz
+*.fa
+human_index/
+*.bam
+*.sam
+.ipynb_checkpoints/
+.pybiomart.sqlite
